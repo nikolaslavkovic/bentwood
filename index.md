@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## BentWood
 
-You can use the [editor on GitHub](https://github.com/nikolaslavkovic/bentwood/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Pozdrav ljudi, ovo je od danas nas websajt. Znam da ste dugo cekali ali i mi smo. Uzivajte. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Namestaj
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
